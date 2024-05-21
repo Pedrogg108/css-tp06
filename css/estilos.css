@@ -1,17 +1,40 @@
-/*esto es un comentario en css*/
-body{
-    background-color: darkkhaki; /*cambia el color de fondo de la pagina*/
+/* Estilos para la página web */
+body {
+    background-color: #25b2ce;
+    font-size: 16px;
 }
-/*encabezado*/
 
-/*parte principal*/
-h1{
-    color:blueviolet;
+
+h1 {
+    font-size: 36px;
+    color: #2908e6;
 }
-p{
-    color:cornflowerblue;
+
+h2 {
+    font-size: 36px;
+    color: #20607e;
 }
-a{
-    color: rgb(70, 128, 143);
+
+.encabezado {
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 42px;
 }
-/*pie*/
+
+.parrafo {
+    text-align: justify;
+    text-transform: capitalize;
+    font-size: 24px;
+}
+
+#fondo {
+    background-color: #90a70d;
+    /* modificar el color a elección */
+}
+
+p a {
+    color: #be0000;
+    text-decoration: none;
+    /*modifica el color del URL */
+}

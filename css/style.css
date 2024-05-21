@@ -1,0 +1,22 @@
+/*esto es un comentario en css*/
+body {
+    background-color: darkkhaki;
+    /*cambia el color de fondo de la pagina*/
+}
+
+/*encabezado*/
+
+/*parte principal*/
+h1 {
+    color: blueviolet;
+}
+
+p {
+    color: cornflowerblue;
+}
+
+a {
+    color: rgb(70, 128, 143);
+}
+
+/*pie*/
