@@ -1,3 +1,4 @@
+
 body {
     background-color: #8a3f3f;
     color: rgb(255, 255, 255);
@@ -5,7 +6,7 @@ body {
     text-align: center;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
-
+/*header*/
 header {
     background-color: #CB3535;
     color: #ffffff;
@@ -34,6 +35,8 @@ nav ul li a {
     text-decoration: none;
 }
 
+/*main*/
+
 main {
     padding: 20px;
 }
@@ -61,6 +64,9 @@ main section h2{
     width: 300px;
     padding-right: 20px;
 }
+
+/*footer*/
+
 footer{
     padding-top: 2px;
     background-color: rgb(168, 60, 60);
